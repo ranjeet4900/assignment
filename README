@@ -1,0 +1,16 @@
+1) First and second question calculating moving average using time series.
+1.1) converting timestamp column to seconds, and then using use the rangeBetween function in the pyspark.sql.Window class to include the correct rows in window.
+1.2) removed white spaces from column name.
+1.3) Creating a Window and WindowSpec (50) with rangeBetween()
+1.4) using time series if there are no gaps between previous days and current days then it will calculate the mean avg. if it find any gaps for time widnows then it calcluates MA50, MA100 as per question.
+1.5) used hive to store the data in hive table.
+
+
+2) question 3 and 4, calculated MA and EMA over the Risk_score column without timeseries.
+
+
+
+Note: Honestly I never get the chance to work on kafka and CI/CD so coudn't use that functionlity in my program. but if i'll get the chance i'll learn.
+
+To perform this activity I setup hadoop single node cluster on ubuntu then installed and configured hive, spark, python, kafka and integrated jupyter notebook with spark.
+
