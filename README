@@ -10,7 +10,7 @@
 
 
 
-Note: Honestly I never get the chance to work on kafka and CI/CD so coudn't use that functionlity in my program. but if i'll get the chance i'll learn.
+Note: Honestly, I never get the chance to work on kafka and CI/CD so coudn't use that functionlity in my program. but if i'll get the chance i'll learn.
 
-To perform this activity I setup hadoop single node cluster on ubuntu then installed and configured hive, spark, python, kafka and integrated jupyter notebook with spark.
+      To perform this activity I setup hadoop single node cluster on ubuntu then installed and configured hive, spark, python, kafka and integrated jupyter notebook with spark.
 
